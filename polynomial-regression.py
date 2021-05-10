@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 #### Reading the data (it's the same as the one in linear-regression.py)
-data_raw = pd.read_csv('FuelConsumption.csv')
+data_raw = pd.read_csv('./data/FuelConsumption.csv')
 
 ## Get important fields only
 data = data_raw[['ENGINESIZE', 'CYLINDERS', 'FUELCONSUMPTION_CITY', 'FUELCONSUMPTION_HWY', 'FUELCONSUMPTION_COMB', 'CO2EMISSIONS']]

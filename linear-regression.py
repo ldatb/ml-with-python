@@ -7,7 +7,7 @@ import numpy as np
 # This model consists of 13 colums:
 # Model year, Maker, Mode, Class, Engine Size, Cylinders, Transmission, Fuel Type, 
 # Fuel Consuption at City, Fuel Consuption at Highway, Fuel Consuption at Combined and Co2 emissions
-raw_data = pd.read_csv('FuelConsumption.csv')
+raw_data = pd.read_csv('./data/FuelConsumption.csv')
 
 # Define important columns
 valuable_data = raw_data[['ENGINESIZE', 'CYLINDERS', 'FUELCONSUMPTION_CITY', 'FUELCONSUMPTION_HWY', 'FUELCONSUMPTION_COMB', 'CO2EMISSIONS']]

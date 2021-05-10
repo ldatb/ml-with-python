@@ -5,7 +5,7 @@ import pandas as pd
 
 ### Loading model
 ### This is not the same model as linear-regresison.py and polynomial-regression.py
-dataRaw = pd.read_csv('china_gdp.csv')
+dataRaw = pd.read_csv('./data/china_gdp.csv')
 #print(dataRaw.head()) # Checking the table
 
 ### Ploting the dataset
