@@ -6,10 +6,11 @@ I recommend viewing the project in this order:
 1. Linear Regression
 2. Polynomial Regression
 3. Non-Linear Regression
-4. K-Nearest Neighbor (KNN)
+4. KNN (K-Nearest Neighbor)
 5. Decision Tree
 6. Logistic Regression
-7. SVM
+7. SVM (Support Vector Machine)
 8. K-Means
+9. Hierarchical Clustering
 
 The first files are pure python because I didn't knew how to use Jupyter Notebooks, from KNN and so on, I decided to search the benefits of Jupyter and decided to use it. In the future I'll update the .py files to .ipynb so it's all regular.
