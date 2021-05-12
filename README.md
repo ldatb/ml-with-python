@@ -13,5 +13,6 @@ I recommend viewing the project in this order:
 8. K-Means
 9. Hierarchical Clustering
 10. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+11. Content-Based Recommendation Systems
 
 The first files are pure python because I didn't knew how to use Jupyter Notebooks, from KNN and so on, I decided to search the benefits of Jupyter and decided to use it. In the future I'll update the .py files to .ipynb so it's all regular.
