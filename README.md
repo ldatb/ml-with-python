@@ -10,5 +10,6 @@ I recommend viewing the project in this order:
 5. Decision Tree
 6. Logistic Regression
 7. SVM
+8. K-Means
 
 The first files are pure python because I didn't knew how to use Jupyter Notebooks, from KNN and so on, I decided to search the benefits of Jupyter and decided to use it. In the future I'll update the .py files to .ipynb so it's all regular.
